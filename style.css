@@ -1,0 +1,51 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+    font-family: cursive;
+
+}
+
+.note
+{
+    font-size: 18px;
+    color: firebrick;
+    font-family: cursive;
+}
+
+body
+{
+   background-size: cover; 
+}
+
+.scientist_img, .yellow_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.scientist
+{
+    float: left;
+}
+
+.yellow
+{
+    float: right;
+}
+
+
+#scientistid, #yellowid
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas
+{
+    background-color: gold;
+    color: red;
+    border-radius: 50px;
+    border-color: black;
+}
